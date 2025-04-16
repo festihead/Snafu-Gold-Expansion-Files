@@ -1,0 +1,1 @@
+I've created types, spawnabletypes and expansion market trader files so you can spawn the weapons in and have them sellable. I've set them to very expensive to buy and sell but you can edit them and the types as needed.
